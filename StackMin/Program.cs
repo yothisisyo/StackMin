@@ -9,7 +9,7 @@ namespace StackMin
         static int min=0,minPrev;
 
         static void Main(string[] args)
-        {
+        {//This is Master !! 
             int X;
             while(true)
             {//Test
