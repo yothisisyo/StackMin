@@ -9,10 +9,10 @@ namespace StackMin
         static int min=0,minPrev;
 
         static void Main(string[] args)
-        {//Testing Master Pushed
+        {//This is Master !! 
             int X;
             while(true)
-            {
+            {//Test
                 Console.WriteLine("Select");
                 Console.WriteLine("1.Push");
                 Console.WriteLine("2.Pop");
