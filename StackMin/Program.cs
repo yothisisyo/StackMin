@@ -13,6 +13,7 @@ namespace StackMin
             int X;
             while(true)
             {//Test
+                //Testing
                 Console.WriteLine("Select");
                 Console.WriteLine("1.Push");
                 Console.WriteLine("2.Pop");
